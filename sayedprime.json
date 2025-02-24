@@ -1,0 +1,47 @@
+[
+    {
+      "availability": "STOP",
+      "price": 50,
+      "product_title": "smart watch",
+      "product_image": "https://m.media-amazon.com/images/I/712OiozmuNL._AC_SL1500_.jpg",
+      "KEYWORD ": "steam deck dock",
+      "SOLD_BY": "\nshenzhenshimeiqingyukejiyouxiangongsi",
+      "product_link": "https://www.amazon.com/dp/B0BQB8V29X",
+      "PAGE": 1,
+      "REQUIRED QUANTITY ": 30,
+      "REMARKS": "use coupon",
+      "MAX PER DAY": 1,
+      "asin": "B0BQB8V29X",
+      "description": "Docking Station for Steam Deck ROG Ally, 6 in 1 Stream Deck Dock with HDMI 2.0 4K@60Hz, 1000Mbps Gigabit Ethernet, 3 USB-A 3.0 and Full Speed Charging USB-C Port Compatible with Valve Steam Deck"
+    },
+    {
+      "availability": "ACTIVE",
+      "price": 21.1,
+      "product_title": "face brush",
+      "product_image": "https://fls-na.amazon.com/1/oc-csi/1/OP/requestId=XKRJ29E2Q6JCTM5MERNF&js=0",
+      "KEYWORD ": "steam deck dock",
+      "SOLD_BY": "\nShelph-US",
+      "product_link": "https://www.amazon.com/dp/B09QM99ZTV",
+      "PAGE": 1,
+      "REQUIRED QUANTITY ": 50,
+      "REMARKS": "use coupon",
+      "MAX PER DAY": 1,
+      "asin": "B09QM99ZTV",
+      "description": ""
+    },
+    {
+      "availability": "ACTIVE",
+      "price": 129.99,
+      "product_title": "smart watch",
+      "product_image": "https://m.media-amazon.com/images/I/71CendUS+bL._AC_SL1500_.jpg",
+      "KEYWORD ": "order by link",
+      "SOLD_BY": "HEBFL-US",
+      "product_link": "https://www.amazon.com/Smartwatch-Fitness-Activity-Pedometer-Waterproof/dp/B0DK4MZN6R\r",
+      "PAGE": 1,
+      "REQUIRED QUANTITY ": 5,
+      "REMARKS": "",
+      "MAX PER DAY": 1,
+      "asin": "B0DK4MZN6R",
+      "description": ""
+    }
+  ]
